@@ -1,1 +1,1 @@
-![Detection Example](https://raw.githubusercontent.com/USERNAME/REPO/main/face_car_detection.png)
+![Detection Example](https://github.com/ashokreddy304/Open-cv/blob/main/car_face.png)
